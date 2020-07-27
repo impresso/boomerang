@@ -31,8 +31,8 @@ const Fields = Object.freeze({
 });
 
 const EntityMentionFields = Object.freeze({
-  MentionLabel: 'surface_s',
-  EntityId: 'entity_id_s',
+  MentionLabel: 'm_surface_s',
+  EntityId: 'e_id_s',
 });
 
 const ResolutionToTermField = Object.freeze({
